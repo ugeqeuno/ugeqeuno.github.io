@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugeqeuno.github.io/VQs/sitemap_index.txt
+Sitemap: https://ugeqeuno.github.io/eXs/sitemap_index.txt
+Sitemap: https://ugeqeuno.github.io/njw/sitemap_index.txt
+Sitemap: https://ugeqeuno.github.io/rLA/sitemap_index.txt
